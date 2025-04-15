@@ -1,0 +1,52 @@
+[
+    {
+        "id": 1,
+        "nome": "Lucas",
+        "cidade": "São Paulo"
+    },
+    {
+        "id": 2,
+        "nome": "Ana",
+        "cidade": "São Paulo"
+    },
+    {
+        "id": 3,
+        "nome": "Carlos",
+        "cidade": "Salvador"
+    },
+    {
+        "id": 4,
+        "nome": "Maria",
+        "cidade": "Salvador"
+    },
+    {
+        "id": 5,
+        "nome": "João",
+        "cidade": "Crato"
+    },
+    {
+        "id": 6,
+        "nome": "Fernanda",
+        "cidade": "Crato"
+    },
+    {
+        "id": 7,
+        "nome": "Pedro",
+        "cidade": "São Paulo"
+    },
+    {
+        "id": 8,
+        "nome": "Juliana",
+        "cidade": "São Paulo"
+    },
+    {
+        "id": 9,
+        "nome": "Ricardo",
+        "cidade": "Salvador"
+    },
+    {
+        "id": 10,
+        "nome": "Patrícia",
+        "cidade": "Salvador"
+    }
+]
